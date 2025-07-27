@@ -1,2 +1,3 @@
 # apna-home
-This is my firrst repository
+This is my first repository
+Author-Sharwan Singh
